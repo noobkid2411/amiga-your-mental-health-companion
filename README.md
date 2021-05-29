@@ -18,7 +18,8 @@ Visualising a basic mental health app for everyone around in these tough times.
  
  
  3> To  create a basic questionnare focused on the prominent mental issues of the current crowd,which can lead to a basic idea of the mental state of the person.Our databases currently have a framework for five major mental health hazards that people suffer from them,and 10 certified yes-no questions that will help guage one's level of mental health in different ways.We hope to expand this database into more in depth questions to generate better more comprehensive reports.
-   <img width="414" alt="choose topic " src="https://user-images.githubusercontent.com/69161722/120084514-7570ac80-c0ee-11eb-8fe8-c56f0181ade4.png">
+  
+  <img width="414" alt="choose topic " src="https://user-images.githubusercontent.com/69161722/120084514-7570ac80-c0ee-11eb-8fe8-c56f0181ade4.png">
   
   <img width="414" alt="Reminders" src="https://user-images.githubusercontent.com/69161722/120084517-786b9d00-c0ee-11eb-9148-d6dcaaee8d78.png">
  
