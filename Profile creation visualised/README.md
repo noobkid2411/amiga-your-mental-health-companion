@@ -1,4 +1,4 @@
-The profile creation tab on the final application is currently visualised on a form structure powered by aitable database management.
+The profile creation tab on the final application is currently visualised on a form structure powered by airtable database management.
 
 The link of the form is here: https://airtable.com/shr1tX2XiNAdTK7EC 
 
