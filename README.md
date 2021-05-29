@@ -25,7 +25,7 @@ Visualising a basic mental health app for everyone around in these tough times.
  
  4> To generate reports for better assesing the state and prompting the user to seek help if necessary.
  ![Meditate v2](https://user-images.githubusercontent.com/69161722/120084516-773a7000-c0ee-11eb-9abd-a966ae94518c.jpg)
- During times of ditress,physical health takes a front seat while mental health is shifted to the back,we feel this application will remind the users to keep a check on the demons of mind,which are not readily visible but are harmful in a lot of ways!
+ During times of distress,physical health takes a front seat while mental health is shifted to the back,we feel this application will remind the users to keep a check on the demons of mind,which are not readily visible but are harmful in a lot of ways!
 
  
 
