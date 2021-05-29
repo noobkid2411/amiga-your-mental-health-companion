@@ -1,0 +1,1 @@
+Contains csv data files used as question bank for daignosing different types of mental health issues within the app. Currently contains yes/no questionaire for five prominent and recurring mental health issues in current scenario,would be further exanded to extensive and detailed questions for better results. 
