@@ -1,5 +1,6 @@
 # Amiga-your-mental-health-companion
 Visualising a basic mental health app for everyone around in these tough times.
+Figma prototype link:https://www.figma.com/proto/uedI4NpypkDiN1EN7Vtlg2/Meditation-app-UI-Community?node-id=1%3A1192&scaling=scale-down&page-id=0%3A1
 
  ![Screenshot 2021-05-29 223029](https://user-images.githubusercontent.com/69161722/120078545-996fc600-c0cd-11eb-8ffd-dcb4f44f6932.jpg)
  
